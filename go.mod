@@ -1,1 +1,1 @@
-module "github.com/ballpit/depthree"
+module "github.com/ballpit/depthree/v2"
